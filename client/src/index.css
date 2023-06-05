@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+html, body, #root, .app{
+  height: 100%;
+  width: 100%;
+  font-family: "Rubik", sans-serif;
+}
+
+a:link {
+  color: #00ffee;
+}
+/* visited link */
+a:visited {
+  color: #00ffee;
+}
+/* mouse over link */ 
+a:hover {
+  color: #8ebf42;
+}
+/* selected link */
+a:active {
+  color: #00ffee;
+}
